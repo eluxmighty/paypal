@@ -1,3 +1,2 @@
-this is a paypal repository
-this is a paypal application for payment
-making progress
+This is a paypal repository
+This is a paypal applications for payments
